@@ -1,6 +1,12 @@
 <div align="center">
-  <img height="50" src="https://i.pinimg.com/originals/7a/87/81/7a8781168fde99a52044ab01c6968599.jpg"  />
+  <img height="100" src="https://i.pinimg.com/originals/7a/87/81/7a8781168fde99a52044ab01c6968599.jpg"  />
 </div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
 
 ###
 
@@ -13,11 +19,6 @@
   </a>
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
