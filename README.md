@@ -25,9 +25,9 @@
 ###
 
 <p align="left">My name is Pooja and I am pursuing my MCIS in Computer Science from Southern Arkansas University.
-I'm a tech enthusiast with hands-on experience in **cloud computing**, **machine learning**, and **data visualization**. My journey includes certifications in **AWS Cloud**, **AI/ML**, and a Postgraduate Program in Cloud Computing from **The University of Texas at Austin**.
+I'm a tech enthusiast with hands-on experience in <b>Cloud Computing, Machine Learning, Salesforce AI and Data Visualization</b>. My journey includes certifications in <b>AWS Cloud Practitioner, AWS AI/ML Foundation</b>, and a Postgraduate Program in <b>Cloud Computing</b> from "The University of Texas at Austin".
 
-I’m passionate about using **technology to solve real-world problems**, especially with tools like **AWS**, **Python**, **Tableau**, and **SageMaker**. I’ve also explored **local LLMs** and predictive analytics using **Ollama** and **Myst AI**.
+I’m passionate about using <b>Technology to solve real-world problems</b>, especially with tools like <b>AWS, Python, Tableau, and AmazonSageMaker</b>. I’ve also explored <b>local LLMs</b> and predictive analytics using <b>Ollama</b> and <b>Myst AI</b>.
 
 </p>
 
