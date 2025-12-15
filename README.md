@@ -10,13 +10,13 @@ Data Scientist | ML & AI Practitioner | MCIS (Data Science)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pooja-athawale-2a9a47231/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="mailto:athawale.pooja2015@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="https://www.salesforce.com/trailblazer/pooja-yogesh-athawale" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Trailhead&logo=salesforce&color=00A1E0&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Trailhead-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </div>
 
