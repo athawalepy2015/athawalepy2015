@@ -21,9 +21,7 @@ Data Scientist | Machine Learning & Analytics | Graduate Student (Data Science)
   <a href="https://pooja-athawale-aivh8r2.gamma.site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=web&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="https://github.com/athawalepy2015/athawalepy2015/raw/main/Resume_Pooja2026.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-red?logo=adobeacrobatreader&logoColor=white&style=for-the-badge" height="28" />
-  </a>
+  
 </div>
 
 
@@ -61,28 +59,13 @@ This GitHub profile highlights selected projects in data science, machine learni
 <h3 align="left">Tools & Technologies</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,aws,databricks,apache-spark" height="40"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,postgresql,jupyter,git,github" height="40"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi,salesforce" height="40"/>
 </div>
+
 
 ---
 
