@@ -5,7 +5,7 @@
 <h1 align="center">Pooja Yogesh Athawale</h1>
 
 <p align="center">
-Data Scientist | Machine Learning & Analytics | Graduate Student (Data Science)
+Data Analyst | AWS Cloud Engineer | Machine Learning & Analytics | Graduate Student (Data Science)
 </p>
 
 <div align="center">
