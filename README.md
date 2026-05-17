@@ -21,7 +21,7 @@ Google AI Professional Certified | Data Analyst | AI & Machine Learning Research
     <img src="https://img.shields.io/badge/Trailhead-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge" height="28" />
   </a>
 
-  <a href="https://pooja-athawale-aivh8r2.gamma.site/" target="_blank">
+  <a href="[https://pooja-athawale-aivh8r2.gamma.site/](https://poojagenai.onrender.com/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </div>
