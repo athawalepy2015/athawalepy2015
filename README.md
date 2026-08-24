@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm Pooja Athawale</h1>
+<h1 align="center">Pooja Yogesh Athawale</h1>
 
 <h3 align="center">
-Building at the intersection of Data Science, AI/ML & Generative AI
+Data Science • AI/ML • Generative AI • Applied AI Research
 </h3>
 
 <p align="center">
-I enjoy turning data, models, and research ideas into practical AI systems —
-from analytics pipelines to RAG applications and reliable ML solutions.
+Building reliable, data-driven AI solutions across machine learning,
+Generative AI, healthcare AI, analytics, and cloud technologies.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pooja-athawale-2a9a47231/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28"/>
   </a>
+
   <a href="mailto:athawale.pooja2015@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28"/>
   </a>
+
   <a href="https://poojagenai.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white&style=for-the-badge" height="28"/>
   </a>
@@ -23,20 +25,17 @@ from analytics pipelines to RAG applications and reliable ML solutions.
 
 ---
 
-## 👩‍💻 What I'm Working On
+## 👩‍💻 Profile
 
-My current interests revolve around building **reliable AI systems**, especially:
+Data Science and AI/ML professional focused on transforming complex data
+and research ideas into practical, reliable AI solutions.
 
-- 🧠 Generative AI & Large Language Models
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🤖 AI Agents & intelligent workflows
-- 📊 Data Science & Machine Learning
-- 🩺 AI for healthcare
-- ☁️ Cloud-based AI & data systems
-- 🛡️ AI reliability, grounding & hallucination evaluation
+Work spans **Machine Learning, Deep Learning, Generative AI, LLMs,
+Retrieval-Augmented Generation (RAG), Data Analytics, and Cloud Computing**,
+with particular interest in AI reliability and real-world applications.
 
-I particularly enjoy understanding not only **whether a model works**, but
-**when it fails, why it fails, and how we can make it more reliable.**
+Published AI research includes applications in **biomedical question answering,
+breast ultrasound representation learning, and diabetic retinopathy grading**.
 
 ---
 
@@ -44,111 +43,119 @@ I particularly enjoy understanding not only **whether a model works**, but
 
 ### 🩺 Clinical RAG Reliability
 
-A research pipeline exploring how reliably LLMs answer biomedical questions
-when combined with retrieval.
+End-to-end biomedical RAG research exploring the reliability of
+LLM-generated answers under fixed retrieval conditions.
 
-**What I explored:**
-`RAG` • `LLMs` • `Vector Search` • `Embeddings` • `ChromaDB` •
-`Grounding` • `Hallucination Analysis`
+**Key areas:**  
+`LLMs` • `RAG` • `Embeddings` • `Vector Search` • `ChromaDB` •
+`Grounding` • `Confidence Calibration` • `Hallucination Analysis`
 
-> How much should we trust an LLM simply because it sounds confident?
+**Research focus:**  
+How reliably can an LLM answer clinical questions, and what happens when
+model confidence does not reflect actual correctness?
 
 ---
 
 ### 🧬 Breast Ultrasound Representation Learning
 
-Exploring how Variational Autoencoders learn representations from breast
-ultrasound images and how changes in latent-space regularization affect
-downstream structure.
+Deep learning research examining latent-space representations learned from
+breast ultrasound images using Variational Autoencoders.
 
-**Built with:**
-`Python` • `PyTorch` • `VAE` • `UMAP` • `t-SNE` • `Computer Vision`
+**Key areas:**  
+`Python` • `PyTorch` • `VAE` • `UMAP` • `t-SNE` •
+`Computer Vision` • `Representation Learning`
 
-📄 This work contributed to a peer-reviewed IntelliSys 2026 publication.
+Research contributed to a peer-reviewed publication at **IntelliSys 2026**.
 
 ---
 
 ### 👁️ Reliable Diabetic Retinopathy Grading
 
-Exploring Energy-Based Learning for more reliable retinal disease
-classification.
+Energy-Based Learning research focused on improving prediction reliability
+in retinal disease classification.
 
-The project focuses not only on prediction accuracy, but also on identifying
-cases where the model may be **uncertain or unreliable**.
+**Key areas:**  
+`ResNet-18` • `Energy-Based Learning` • `Confidence Calibration` •
+`Uncertainty Analysis` • `Human-in-the-Loop AI`
 
-**Focus:**
-`ResNet-18` • `Energy-Based Learning` • `Uncertainty` • `Reliable AI`
-
-📄 Published at IntelliSys 2026.
+Research contributed to a peer-reviewed publication at **IntelliSys 2026**.
 
 ---
 
-## 🧪 Research Question I Keep Coming Back To
+## 🔬 Research Focus
 
-> **How do we know when an AI system should not be trusted?**
+A central theme across current AI research:
 
-A large part of my research explores this question through:
+> **How can AI systems recognize and communicate when their predictions
+> may not be reliable?**
 
-- confidence calibration
-- grounding
-- hallucination analysis
-- uncertainty estimation
-- failure-mode analysis
-- human-in-the-loop AI
+Areas of investigation include:
+
+- Model reliability
+- Confidence calibration
+- Grounding
+- Hallucination analysis
+- Uncertainty estimation
+- Failure-mode analysis
+- Human-in-the-loop AI
+- Responsible AI evaluation
 
 ---
 
-## 🛠️ Things I Build With
+## 🛠️ Technology Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,aws,postgresql,docker,git,github" />
 </p>
 
-**AI / GenAI**  
-LLMs • RAG • LangChain • LangGraph • Hugging Face • ChromaDB
+**AI & Generative AI**  
+LLMs • RAG • LangChain • LangGraph • Hugging Face •
+Sentence Transformers • ChromaDB
 
-**Data**  
-Python • SQL • Pandas • NumPy • Spark • PySpark • Databricks
+**Data & Machine Learning**  
+Python • SQL • Pandas • NumPy • PyTorch • Scikit-learn •
+Machine Learning • Deep Learning
 
-**Cloud & ML**  
-AWS • SageMaker • Bedrock • MLflow • Docker
+**Data Engineering & Cloud**  
+AWS • Databricks • Spark • PySpark • ETL • SageMaker • Bedrock
 
-**Analytics**  
+**Analytics & Visualization**  
 Tableau • Power BI • Statistical Analysis • Data Visualization
 
 ---
 
-## 📚 Research
+## 📚 Research & Publications
 
-Two of my AI research projects were published at **IntelliSys 2026**:
+### IntelliSys 2026 — Amsterdam, Netherlands
 
-📄 *KL Prior on Latent Space Structure in Breast Ultrasound Representation Learning*
+📄 **KL Prior on Latent Space Structure in Breast Ultrasound Representation Learning**
 
-📄 *Robust Diabetic Retinopathy Grading via Energy-Based Margin Learning*
+📄 **Robust Diabetic Retinopathy Grading via Energy-Based Margin Learning**
 
-My research has also been presented at the **Arkansas Academy of Science**.
+### Arkansas Academy of Science — 2026
 
----
-
-## 🌱 Currently Exploring
-
-🤖 Agentic AI & multi-agent workflows  
-🔗 Tool calling and AI integrations  
-📏 LLM/RAG evaluation  
-☁️ Production-oriented AI workflows  
-📊 Scalable data & ML systems  
+🏆 **Honorable Mention for Outstanding Research Presentation**
 
 ---
 
-## 🤝 Let's Connect
+## 🌱 Current Areas of Exploration
 
-I'm interested in opportunities and collaborations around:
+🤖 Agentic AI & Multi-Agent Systems  
+🔗 Tool Calling & AI Integrations  
+🔎 Advanced RAG Architectures  
+📏 LLM & RAG Evaluation  
+☁️ Production-Oriented AI Workflows  
+📊 Scalable Data & ML Systems  
 
-**Data Science • AI/ML • Generative AI • Data Engineering • Applied AI**
+---
 
-If you're building something interesting with data or AI, I'd love to connect.
+## 🤝 Opportunities & Collaboration
 
-<p>
+Open to opportunities and collaborations across:
+
+**Data Science • AI/ML • Generative AI • Data Engineering • Applied AI • Data Analytics**
+
+<p align="center">
   <a href="https://www.linkedin.com/in/pooja-athawale-2a9a47231/">LinkedIn</a>
   •
   <a href="https://poojagenai.onrender.com/">Portfolio</a>
