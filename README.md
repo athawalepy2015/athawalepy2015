@@ -1,3 +1,4 @@
+```html
 <div align="center">
   <img height="100" src="https://i.pinimg.com/originals/7a/87/81/7a8781168fde99a52044ab01c6968599.jpg" />
 </div>
@@ -5,7 +6,7 @@
 <h1 align="center">Pooja Yogesh Athawale</h1>
 
 <p align="center">
-Google AI Professional Certified | Data Analyst | AI & Machine Learning Researcher | Python | SQL | AWS | Tableau | Power BI
+Data Science | AI/ML | Generative AI | LLMs & RAG | Python | SQL | AWS | Data Analytics
 </p>
 
 <div align="center">
@@ -31,15 +32,15 @@ Google AI Professional Certified | Data Analyst | AI & Machine Learning Research
 <h3 align="left">About Me</h3>
 
 <p align="left">
-I am passionate about building AI-driven and data-driven solutions that transform complex data into actionable insights. My work focuses on Machine Learning, Deep Learning, Data Analytics, Cloud Technologies, and Healthcare AI research, with an emphasis on practical problem-solving and scalable analytical systems.
+I am a Data and AI/ML professional with hands-on experience designing, developing, and evaluating data-driven and intelligent systems across enterprise and research environments. My work spans Data Analytics, Machine Learning, Deep Learning, Generative AI, LLMs, Retrieval-Augmented Generation (RAG), and cloud-based data solutions.
 </p>
 
 <p align="left">
-Currently, I am conducting research at Southern Arkansas University on Variational Autoencoders (VAE) for breast ultrasound image analysis and tumor representation learning. My research was presented at the Arkansas Academy of Science (AAS) Conference, where I received 3rd Place in the Computer Science Division.
+My research focuses on reliable and responsible AI, including model evaluation, confidence calibration, grounding, hallucination analysis, uncertainty estimation, and human-in-the-loop decision-making. I have worked on biomedical AI applications involving clinical question answering, breast ultrasound representation learning, and diabetic retinopathy grading.
 </p>
 
 <p align="left">
-This GitHub profile showcases projects involving AI, Machine Learning, Deep Learning, Data Analytics, Cloud Computing, ETL workflows, predictive modeling, and visualization systems developed through academic research and real-world experimentation.
+I am a published AI researcher with two peer-reviewed papers at IntelliSys 2026, covering breast ultrasound representation learning and robust diabetic retinopathy grading. My GitHub showcases projects spanning AI/ML research, Generative AI, RAG, Data Science, Data Engineering, analytics, and cloud technologies.
 </p>
 
 ---
@@ -47,13 +48,13 @@ This GitHub profile showcases projects involving AI, Machine Learning, Deep Lear
 <h3 align="left">Technical Skills</h3>
 
 <ul>
-  <li>Artificial Intelligence, Machine Learning & Deep Learning</li>
-  <li>Generative AI, Prompt Engineering & LLM Fundamentals</li>
-  <li>Exploratory Data Analysis (EDA) & Feature Engineering</li>
-  <li>Predictive Modeling & Statistical Analysis</li>
-  <li>ETL Pipelines & Data Engineering Workflows</li>
-  <li>Cloud Computing & Big Data Technologies</li>
-  <li>Dashboards, Data Visualization & Analytical Storytelling</li>
+  <li><b>Data Science & Analytics:</b> Python, SQL, R, Pandas, NumPy, Statistical Analysis, EDA, Feature Engineering</li>
+  <li><b>Machine Learning & Deep Learning:</b> PyTorch, Scikit-learn, NLP, Computer Vision, Model Evaluation</li>
+  <li><b>Generative AI:</b> LLMs, RAG, Prompt Engineering, LangChain, LangGraph, Anthropic Claude</li>
+  <li><b>Retrieval & AI Evaluation:</b> Embeddings, Vector Databases, ChromaDB, Sentence Transformers, Grounding, Hallucination Analysis</li>
+  <li><b>Data Engineering:</b> ETL Pipelines, Databricks, Apache Spark, PySpark, Delta Lake</li>
+  <li><b>Cloud & MLOps:</b> AWS, Amazon SageMaker, Amazon Bedrock, MLflow, Docker, Kubernetes, CI/CD</li>
+  <li><b>Business Intelligence:</b> Tableau, Power BI, KPI Reporting, Data Visualization</li>
 </ul>
 
 ---
@@ -61,17 +62,16 @@ This GitHub profile showcases projects involving AI, Machine Learning, Deep Lear
 <h3 align="left">Tools & Technologies</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,aws" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,r,pytorch,sklearn,aws" height="40"/>
   <br/><br/>
 
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,jupyter" height="40"/>
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=databricks,apache-spark,salesforce" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,git,github,docker,kubernetes" height="40"/>
 </div>
 
 <p align="left">
-Tableau • Power BI • Pandas • NumPy • Matplotlib • Seaborn • PySpark • SQL
+Python • SQL • PyTorch • Scikit-learn • Pandas • NumPy • LangChain • LangGraph •
+ChromaDB • Hugging Face • AWS • SageMaker • Bedrock • Databricks • Spark •
+PySpark • Tableau • Power BI • MLflow
 </p>
 
 ---
@@ -80,19 +80,35 @@ Tableau • Power BI • Pandas • NumPy • Matplotlib • Seaborn • PySpark
 
 <ul>
   <li>
-    <b>Healthcare AI Research (VAE)</b> — Deep learning research focused on breast ultrasound image analysis and latent space representation learning using Variational Autoencoders.
+    <b>Clinical RAG Reliability Analysis</b> — Built and evaluated a Retrieval-Augmented Generation pipeline for biomedical question answering, with a focus on grounding, hallucination risk, evidence utilization, confidence calibration, and LLM reliability.
   </li>
 
   <li>
-    <b>AuroraPredict AI</b> — End-to-end predictive analytics and environmental data mining using solar activity and light pollution datasets.
+    <b>Breast Ultrasound Representation Learning</b> — Developed a PyTorch-based Variational Autoencoder (VAE) for breast ultrasound representation learning and evaluated latent-space quality using UMAP, t-SNE, clustering, reconstruction analysis, and downstream classification.
   </li>
 
   <li>
-    <b>BankAI</b> — Comparative machine learning framework evaluating multiple supervised learning algorithms on structured financial datasets.
+    <b>Robust Diabetic Retinopathy Grading</b> — Developed a ResNet-18 and Energy-Based Learning framework focused on confidence calibration, prediction reliability, uncertainty analysis, and human-in-the-loop review.
   </li>
 
   <li>
-    <b>Databricks Analytics Pipeline</b> — Spark-based ETL workflows, scalable data transformation, and analytics dashboard development.
+    <b>Databricks Analytics Pipeline</b> — Developed Spark-based ETL and data transformation workflows for scalable analytics and downstream reporting.
+  </li>
+</ul>
+
+---
+
+<h3 align="left">Research & Publications</h3>
+
+<ul>
+  <li>
+    <b>IntelliSys 2026:</b> KL Prior on Latent Space Structure in Breast Ultrasound Representation Learning
+  </li>
+  <li>
+    <b>IntelliSys 2026:</b> Robust Diabetic Retinopathy Grading via Energy-Based Margin Learning
+  </li>
+  <li>
+    <b>Arkansas Academy of Science (AAS), 2026:</b> Honorable Mention for Outstanding Research Presentation
   </li>
 </ul>
 
@@ -101,15 +117,24 @@ Tableau • Power BI • Pandas • NumPy • Matplotlib • Seaborn • PySpark
 <h3 align="left">Certifications</h3>
 
 <ul>
-  <li>Google AI Professional Certificate</li>
+  <li>Google Advanced Data Analytics Professional</li>
+  <li>Google AI Professional</li>
+  <li>Anthropic Claude 101</li>
+  <li>Anthropic AI Fluency Framework & Foundations</li>
+  <li>Anthropic AI Fluency for Builders</li>
+  <li>AWS Machine Learning Foundations</li>
   <li>AWS Cloud Practitioner</li>
-  <li>AWS Machine Learning Foundation</li>
   <li>Salesforce AI Associate</li>
   <li>Tableau Desktop Specialist</li>
 </ul>
 
 ---
 
-<p align="left">
-Passionate about AI, Machine Learning, Data Analytics, Healthcare AI, and scalable cloud-based systems. Open to research collaborations, internships, and opportunities in Data Science, AI/ML, Analytics, and Cloud technologies.
+<p align="center">
+<b>Open to opportunities in Data Science, AI/ML, Generative AI, Data Engineering, and Data Analytics.</b>
 </p>
+
+<p align="center">
+Interested in building reliable, scalable, and data-driven AI solutions that solve real-world problems.
+</p>
+```
