@@ -1,4 +1,3 @@
-```html
 <div align="center">
   <img height="100" src="https://i.pinimg.com/originals/7a/87/81/7a8781168fde99a52044ab01c6968599.jpg" />
 </div>
@@ -137,4 +136,4 @@ PySpark • Tableau • Power BI • MLflow
 <p align="center">
 Interested in building reliable, scalable, and data-driven AI solutions that solve real-world problems.
 </p>
-```
+
